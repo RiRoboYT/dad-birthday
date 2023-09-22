@@ -1,0 +1,21 @@
+h1{
+    font-family: 'Josefin Slab', serif;
+    text-align: center;
+    color: #3FC1C9;
+}
+.something {
+    color: rgb(0, 17, 253);
+     font-family: 'Indie Flower', cursive;;
+    height: 350px;
+    font-size: large;
+    width: 350px;
+    background-color: aqua;
+    padding: 30px;
+    border:10px solid  orange ;
+}
+img{
+    height: 500px;
+    width: 500px;
+    margin-left: 980px;
+    margin-top: -430px;
+}
